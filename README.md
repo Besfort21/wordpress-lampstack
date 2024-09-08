@@ -1,1 +1,1 @@
-# wordpress-lampstack
+# wordpress-lampstack using Docker
